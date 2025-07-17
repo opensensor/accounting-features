@@ -2,7 +2,7 @@
 
 ## Overview
 
-This document details the major integration improvements implemented in 2025 to enhance the accuracy, security, and functionality of third-party platform connections within the accounting.opensensor.io system. These enhancements focus on providing businesses with reliable, accurate financial data from their key operational platforms.
+This document details the major integration improvements implemented in 2025 to enhance the accuracy, security, and functionality of third-party platform connections within the https://accounting.opensensor.io system. These enhancements focus on providing businesses with reliable, accurate financial data from their key operational platforms.
 
 ---
 
@@ -305,7 +305,7 @@ The system was treating two different types of Pirate Ship transactions the same
 
 ---
 
-These comprehensive integration enhancements transform the accounting.opensensor.io platform into a reliable, accurate, and secure solution for multi-platform financial data management. By addressing critical issues in financial reporting, implementing robust security measures, and optimizing performance, these improvements provide businesses with the confidence and accuracy they need for effective financial management.
+These comprehensive integration enhancements transform the https://accounting.opensensor.io platform into a reliable, accurate, and secure solution for multi-platform financial data management. By addressing critical issues in financial reporting, implementing robust security measures, and optimizing performance, these improvements provide businesses with the confidence and accuracy they need for effective financial management.
 
 The enhancements ensure that:
 - **Financial reports accurately reflect true business performance**

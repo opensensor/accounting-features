@@ -2,7 +2,7 @@
 
 ## Overview
 
-This document outlines the major system improvements and enhancements implemented in the accounting.opensensor.io platform throughout 2025. These improvements focus on reliability, security, and user experience enhancements that directly impact day-to-day operations.
+This document outlines the major system improvements and enhancements implemented in the https://accounting.opensensor.io platform throughout 2025. These improvements focus on reliability, security, and user experience enhancements that directly impact day-to-day operations.
 
 ---
 
@@ -247,4 +247,4 @@ All improvements have been thoroughly tested and verified in production:
 
 ---
 
-These comprehensive improvements transform the accounting.opensensor.io platform from a developing system into a robust, production-ready solution that businesses can rely on for their financial management needs. The focus on reliability, accuracy, and security ensures that users can trust the system with their most important financial data while benefiting from advanced automation and integration capabilities.
+These comprehensive improvements transform the https://accounting.opensensor.io platform from a developing system into a robust, production-ready solution that businesses can rely on for their financial management needs. The focus on reliability, accuracy, and security ensures that users can trust the system with their most important financial data while benefiting from advanced automation and integration capabilities.

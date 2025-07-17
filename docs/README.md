@@ -144,4 +144,4 @@ Learn from other businesses using OpenSensor:
 
 ---
 
-*For additional support, please contact our support team at [support@opensensor.io](mailto:support@opensensor.io) or visit our help center at [help.opensensor.io](https://help.opensensor.io).*
+*For additional support, please contact our support team at [matt@opensensor.io](mailto:matt@opensensor.io) or visit our help center at [help.opensensor.io](https://help.opensensor.io).*
